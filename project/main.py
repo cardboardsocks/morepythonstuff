@@ -9,3 +9,7 @@ while True:
     if new_meat == "steak":
         break
 print("Good choice")
+
+a = [1, 3, 5, 7, 9, 11]
+[i - 1 for i in a]
+print(a)
